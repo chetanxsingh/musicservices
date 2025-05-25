@@ -8,18 +8,18 @@
 <img src="https://i.postimg.cc/q7491ysD/firebase.png" alt="img3">
 
 ##🏗️ Project Structure
-lib/
-├── Models/
-│   └── music_service_viewmodel.dart    # Data management & business logic
-├── screens/
-│   ├── home_screen.dart               # Main landing page
-│   └── service_detail_screen.dart     # Service details page
-├── widgets/
-│   └── service_card.dart              # Reusable service components
-└── main.dart                          # App entry point
+-lib/
+-├── Models/
+-│   └── music_service_viewmodel.dart    # Data management & business logic
+-├── screens/
+-│   ├── home_screen.dart               # Main landing page
+-│   └── service_detail_screen.dart     # Service details page
+-├── widgets/
+-│   └── service_card.dart              # Reusable service components
+-└── main.dart                          # App entry point
 
-assets/
-└── images/                            # Navigation icons & UI assets
+-assets/
+-└── images/                            # Navigation icons & UI assets
 
 ## Tech Stacks
 - Dart
