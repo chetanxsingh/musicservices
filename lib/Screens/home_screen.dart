@@ -39,7 +39,7 @@ class HomeScreen extends StatelessWidget {
 
   Widget _buildHeader() {
     return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8,),
       child: Row(
         children: [
           Expanded(
