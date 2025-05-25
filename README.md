@@ -1,16 +1,22 @@
 # musicservices
 
-A new Flutter project.
 
-## Getting Started
+<img src="https://i.postimg.cc/1tCXm9RP/homepage.png" alt="img1">
+<img src="https://i.postimg.cc/CMbMrHkS/screen.png" alt="img2">
+<img src="https://i.postimg.cc/q7491ysD/firebase.png" alt="img3">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stacks
+- Dart
+- Flutter
+- Firebase/Firestore Database
+  
+
+## Features
+- HomePage                         
+- connected all screens                     
+           
+              
+    
